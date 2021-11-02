@@ -59,7 +59,7 @@ Rank : 5/204
 |----------------|--------------------------------------------------|------------------------------------------|
 |Ahmed Attia     |[@ahmedattia](https://zindi.africa/users/ahmedattia)  |[@ahmedattia](https://github.com/ahmedattia143)|
 |Nacir Bouazizi |[@patata](https://zindi.africa/users/patata)        |[@NacirB](https://github.com/NacirB)  |
-|Azer KSOURI |[@ZRUETASILITU ](https://zindi.africa/users/ZRUETASILITU)      |[@Az-Ks](https://github.com/Az-Ks)        |
+|Azer KSOURI |[@ASSAZZIN ](https://zindi.africa/users/ASSAZZIN)      |[@Az-Ks](https://github.com/ASSAZZIN-01)        |
 
 </div>
 
